@@ -41,5 +41,5 @@
       <update id="delete">
         UPDATE userinfo SET delete_date = CURRENT_TIMESTAMP WHERE id = #{id}
       </update>
-
+<!-- subブランチのためのコメント -->
    </mapper>
